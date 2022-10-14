@@ -12,7 +12,7 @@ int main(void)
 
 	while (i < 58)
 	{
-		while( j < 58)
+		while (j < 58)
 		{
 			putchar(i);
 			putchar(j);
