@@ -7,7 +7,7 @@
  * @a: pointer integer
  * @n: parameter integer
  */
-oid print_array(int *a, int n)
+void print_array(int *a, int n)
 {
 	int i;
 
